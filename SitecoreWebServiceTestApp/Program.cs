@@ -84,7 +84,7 @@ namespace SitecoreWebServiceTestApp
                     //var getItem = sitecoreService.GetItemFields(getChildren.ChildNodes[i].Attributes[0].Value, "en", "1", true, database, myCred);
                 }
             }
-
+             
 
             #endregion
         }
